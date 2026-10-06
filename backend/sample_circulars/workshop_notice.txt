@@ -1,0 +1,14 @@
+ABC College of Engineering
+NOTICE
+
+Subject: Hands-on Workshop on Generative AI and LLM Applications
+
+The Department of AI&DS, in association with the IEEE Student Branch, is organising a one-day hands-on workshop on Generative AI and LLM Applications on 8 November 2026 from 9:30 AM to 4:30 PM in AI Lab 3.
+
+The workshop is open to second-year, third-year and final-year students of all departments. Only 60 seats are available and will be allotted on a first-come, first-served basis.
+
+Interested students must register online at https://abc.edu/genai-workshop on or before 5 November 2026. A registration fee of Rs. 200 is payable at the venue.
+
+Participants should bring their own laptops with Python 3.10 installed. Certificates will be issued to all participants.
+
+For more details, contact Prof. S. Karthik, Workshop Coordinator, at genai@abc.edu or 91234 56789.

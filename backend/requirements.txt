@@ -1,0 +1,24 @@
+# --- Core (required) ---
+fastapi>=0.110
+uvicorn[standard]>=0.29
+python-multipart>=0.0.9
+pydantic>=2.6
+requests>=2.31
+python-dotenv>=1.0
+numpy>=1.26
+scikit-learn>=1.4
+pymupdf>=1.24
+gTTS>=2.5
+
+# --- Semantic search upgrade (recommended; falls back to TF-IDF if missing) ---
+sentence-transformers>=2.7
+faiss-cpu>=1.8
+
+# --- OCR for scanned circulars / images (optional) ---
+pillow>=10.0
+pytesseract>=0.3.10      # also install the Tesseract engine itself
+# easyocr>=1.7           # alternative OCR engine (heavier, no system install)
+
+# --- Extras (optional) ---
+python-docx>=1.1
+# spacy>=3.7             # then: python -m spacy download en_core_web_sm  (adds ORG/PERSON NER)
